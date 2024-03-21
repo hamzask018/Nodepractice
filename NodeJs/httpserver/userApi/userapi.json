@@ -1,0 +1,25 @@
+[
+    {
+        "id":1,
+        "name":"Leanne Graham",
+        "username":"Bret",
+        "email":"Sincere@april.biz",
+        "address":{
+            "street":"Kulas Light",
+            "suite":"Apt. 556",
+            "city":"Gwenborough",
+            "zipcode":"421301",
+            "geo":{
+                "lat":"-37.3124",
+                "lng":"81.1432"
+            }
+        },
+        "phone":"1-25656565654",
+        "website":"hilfdegard.org",
+        "company":{
+            "name":"romgard-crona",
+            "catchPhrase":"Multi-layed client-server neural-net",
+            "bs":"harness real-time e-markets"
+        }
+    }
+]
